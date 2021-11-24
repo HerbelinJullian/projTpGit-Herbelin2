@@ -6,14 +6,13 @@ and open the template in the editor.
 -->
 <html>
     <head>
-        <meta charset="UTF-8">
-        <title></title>
+        <meta></title>
     </head>
     <body>
         <?php
         echo'bonjour de Herbelin2';
         echo'seconde ligne de programme pour utilisateur Herbelin2';
-        
+       
         ?>
     </body>
 </html>
